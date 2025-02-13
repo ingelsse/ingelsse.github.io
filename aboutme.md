@@ -1,13 +1,7 @@
-#---
-#layout: page
-#title: About me
-#subtitle: Why you'd want to go on a date with me
-#---
-
 I was born in August ’73, became a T1 Diabetic in 1991.
 
 My resting place or current home if you so wish is Borlänge, Dalarna, Sweden where I live together with my wife Lotta and our cat Alfons.
-I still have no clue where my life is heading nor what I want to do with my life, I guess my childhood dream of being an astronaut is now somewhat ”minor” however.
+I still have no clue where my life is heading nor what I want to do with my life but I guess my childhood dream of being an astronaut is now somewhat ”minor” however.
 
 My working days consists of cooking and serving breakfast & lunch for our future generations in a public school (Yes, I am a cook) but Im gonna study and hopefully become a Librarian instead.
 
